@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DecisionMaker</string>
+    <string name="enter_choices">Enter Choices</string>
+    <string name="hint_choice1">Ex: Rave</string>
+    <string name="hint_choice2">Ex: Dinner</string>
+    <string name="hint_choice3">Ex: Pub (optional)</string>
+    <string name="hint_choice4">Ex: Salsa dancing (optional)</string>
+    <string name="button_make_my_decision">Make my decision</string>
+    <string name="button_edit_choices">Edit choices</string>
+</resources>
